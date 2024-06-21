@@ -1,0 +1,568 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&display=swap');
+/* my css start here.... */
+.let_Us {
+    font-family: Alexandria;
+    font-size: 24px;
+    font-weight: 500;
+    /* line-height: 48.76px; */
+    color: #ffffff;
+    width: 100% !important;
+}
+
+.banner_Card {
+    background: linear-gradient(0deg, #173DB9, #173DB9),
+        linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 100%);
+    display: flex;
+    border-radius: 10px;
+    margin-top: -66px;
+    z-index:11;
+    position: relative;
+    padding: 20px;
+    width: 88%;
+    margin-left: 65px;
+
+}
+
+.who_We {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 34px;
+    color: #ffffff !important;
+    width: 15%;
+    margin-top: 12px;
+    margin-left: 30px;
+}
+
+.it_Is {
+    /* font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FEFEFE !important;
+    width: 78%;
+    margin-left: 3px; */
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FEFEFE !important;
+    width: 80%;
+    margin-left: 3px;
+}
+
+.content_Banner .goodfirms {
+    width: 86%;
+    height: unset !important;
+}
+
+.content_Banner {
+    background: linear-gradient(0deg, #173DB9, #173DB9),
+        linear-gradient(258.26deg, rgba(0, 6, 58, 0) 32.83%, rgba(0, 6, 58, 0.5) 95.71%);
+    padding: 47px 0px;
+    margin-top: 36px;
+
+}
+
+.content_Banner h2 {
+    color: #ffffff !important;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 42.5px;
+    text-align: left;
+
+}
+
+
+
+.heading2,
+.consult_box h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 30px !important;
+    text-align: center;
+    line-height: 45px;
+    margin: 0px;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin-top: -50px;
+}
+
+
+.heading2 span {
+    color: #173DB9;
+ 
+}
+
+p.established {
+    text-align: center;
+}
+
+.number3_Center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1px;
+}
+
+.corevalues_Flex {
+    display: flex;
+    margin-left: 30px;
+}
+
+.corevalues_Flex h1 {
+    color: #000000;
+    opacity: 10%;
+    font-family: Poppins;
+    /* font-size: 75px; */
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 112.5px;
+
+}
+
+.corevalues_Flex p {
+    color: #000000 !important;
+    font-family: Poppins;
+    /* font-size: 27px; */
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 26px;
+    width: 56%;
+    text-align: start;
+    margin-top: 30px;
+    margin-left: 9px;
+}
+
+p.we_Proven {
+    width: 74%;
+    margin-top: -24px;
+    
+}
+
+p.we_Proven2 {
+    width: 78%;
+    margin-top: -20px;
+}
+p.we_Proven3 {
+    width: 74%;
+    margin-top: -20px;
+}
+
+.questions_Banner {
+    background: #EAEFFF;
+    border-radius: 20px;
+    padding: 15px;
+    padding-top: 32px;
+    margin-top: 35px;
+}
+
+.have_Any {
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 500;
+    line-height: 52.5px;
+    text-align: right;
+    color: #000000;
+}
+
+.for_Assistance {
+    font-family: Open Sans;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #404040;
+    width: 94%;
+}
+
+.questions_1 {
+    font-family: Poppins;
+    font-size: 47px;
+    font-weight: 600;
+    line-height: 109.5px;
+    color: #173DB9 !important;
+    width: 100%;
+    margin-top: -21px;
+    margin-left: 47px;
+}
+
+.experts_Box {
+    display: inline-block;
+    padding: 7px 55px;
+    border-radius: 100px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, border-color 0.3s;
+    box-shadow: 0px 0px 15px 0px #0000001F;
+    background: #FFFFFF;
+    margin-top: 14px;
+    position: absolute;
+
+}
+
+/* 
+.experts_Box p {
+    color: #173DB9 !important;
+    font-family: Open Sans;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 29.96px;
+    text-align: left;
+} */
+
+.download_Our {
+    font-family: Open Sans;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 29.96px;
+    text-align: left;
+    color: #ffffff !important;
+
+}
+
+.experts_Box2 {
+    display: inline-block;
+    padding: 7px 55px;
+    border-radius: 100px;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, border-color 0.3s;
+    background: linear-gradient(0deg, #173DB9, #173DB9),
+        linear-gradient(258.26deg, rgba(0, 6, 58, 0) 32.83%, rgba(0, 6, 58, 0.2) 95.71%);
+    margin-top: 14px;
+    margin-left: 29px;
+}
+
+p.algosoft_Group1 {
+    color: #404040;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 7px;
+    text-align: center;
+}
+
+p.our_Convenient {
+    margin-top: 17px;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.long_Fact {
+    color: #FFF8F8 !important;
+    font-family: Open Sans;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    margin-top: 4px;
+
+}
+
+img.goodfirms.goodfirms1.img_fluid {
+    margin-left: 6px;
+}
+
+img.goodfirms.goodfirms1.img_fluid {
+    margin-left: 6px;
+}
+
+.goodfirms {
+    margin-top: 27px;
+    margin-left: -17px;
+}
+
+.idea_Img {
+    position: relative;
+    height: 325px;
+}
+
+/* img.creative_Img {
+    position: absolute;
+    top: -1%;
+
+} */
+
+
+
+p.let_Us2 {
+    position: relative;
+    width: auto;
+    font-family: Alexandria;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48.76px;
+    text-align: left;
+    margin-top: 9px;
+    color: #ffffff !important;
+}
+
+/* Styles for wrapping inline text */
+
+
+
+h3.heading {
+    position: relative;
+    width: max-content !important;
+    margin-top: 0px !important;
+    -webkit-text-stroke: 2px #ffffff !important;
+    color: black !important;
+    font-size: 45px;
+    font-weight: 600;
+
+
+
+
+}
+
+p.italic {
+    margin-top: 0px !important;
+    font-family: Alexandria;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48.76px;
+    color: #FFFFFF !important;
+    font-size: normal !important;
+
+
+}
+
+/* about-us css colse here */
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+
+/* SOC css start here */
+
+
+
+.soc_Number {
+    font-family: Alexandria;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 54.85px;
+    text-align: left;
+    color: #ffffff;
+}
+
+/* p.soc_Lorem {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #ffffff;
+    width: 74%;
+} */
+
+
+
+#cybersecurity {
+    color: #173DB9;
+}
+
+
+
+/* Parent container */
+.idea_Img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+/* Child image */
+.creative_Img2 {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    padding: 5px;
+
+}
+
+
+
+
+
+
+
+.suite_Of4 {
+    font-size: 25px;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: 52.5px;
+    text-align: center;
+    color: #ffffff !important;
+
+}
+
+.suite_Offer {
+    background: #183180;
+}
+
+.experience_Hassle {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    color: #A9B9EB !important;
+    margin-top: -11px;
+
+}
+
+/* SOC css close here */
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
+
+/* changes css start here........ */
+
+/* .hero img {
+    position: relative;
+    inset: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    min-height: 400px;
+    max-height: 400px;
+    border-radius: 0px;
+} */
+
+p.about_Us {
+    font-family: Open Sans;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 40.85px;
+    text-align: left;
+    color: #ffffff !important;
+}
+
+/* .Home_banner_text {
+    position: absolute;
+    z-index: 9999;
+    top: 30%;
+    width: 100%;
+} */
+
+p.italic {
+    font-style: normal !important;
+}
+.About .heading{
+    text-align: center;
+}
+
+.creative_Img {
+   margin-top: 30px;
+    
+}
+
+
+.Home_banner_text .heading {
+    color: #000000;
+    font-weight: 700;
+}
+.heading{
+    line-height: 52px;
+    font-size: 30px;
+}
+
+/* 
+.banner{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+    display: block;
+} */
+
+/* img.img_fluid.web_home_banner {
+    height: 500px;
+    width: 100%;
+    overflow-x: hidden !important;
+} */
+.banner_First{
+    height: 500px !important;
+    width: 100%;
+    overflow-x: hidden !important;
+    position: relative;
+}
+
+body{
+    overflow-x: hidden !important;
+}
+img.goodfirms.goodfirms2.img_fluid {
+    margin-left: 16px;
+    width: 75%;
+    height: unset !important;
+}
+/* img.goodfirms.goodfirms3.img_fluid {
+    width: 100%;
+    height: unset !important;
+    margin-left: -4px;
+} */
+img.goodfirms.goodfirms1.img_fluid {
+    width: 84%;
+    height: unset !important;
+}
+img.goodfirms.img_fluid {
+    width: 88%;
+    height: unset !important;
+}
+
+.question_stripe.question {
+    background: #EAEFFF;
+    padding: 30px 30px 50px;
+    /* height: 170px; */
+    border-radius: 15px;
+    margin-top: -30px;
+}
+img.goodfirms.goodfirms3.img_fluid {
+    /* width: 100%; */
+    /* height: unset !important; */
+    margin-left: -8px;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    max-height: 152px;
+}
+
+.goodfirms{
+    width: 100%; 
+    height: auto; 
+    object-fit: contain; 
+    display: block; 
+    max-height: 134px; 
+    margin-top: 29px;
+   
+}
+.col-md-2.logo_1 {
+    padding-left: 0px;
+}
+.About p {
+    width: 89% !important;
+}
+
+
+
+
+
+
+
